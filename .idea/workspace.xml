@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfbcfba-4eb6-475f-9902-7239b4133208" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ControlStatements_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContolStatements.py" beforeDir="false" afterPath="$PROJECT_DIR$/ContolStatements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlStatements_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ControlStatements_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +39,12 @@
   "keyToString": {
     "Python.ContolStatements.executor": "Run",
     "Python.Q.executor": "Run",
+    "Python.Q0.executor": "Run",
     "Python.Q2.executor": "Run",
     "Python.Q3.executor": "Run",
+    "Python.Q4.executor": "Run",
+    "Python.Q5.executor": "Run",
+    "Python.Q6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/user/Documents/GitHub/04.ControlStatements1"
